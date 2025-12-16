@@ -1,4 +1,6 @@
-# The PDA Terminal by Un Kyu Lee
+# The PDA Terminal
+
+by Un Kyu Lee
 
 <img src="./images/001.webp" width=600 />
 
