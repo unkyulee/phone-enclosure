@@ -47,10 +47,11 @@ You will need:
 
 To Assemble:
 
-* 4x M2 screw 5 ~ 10 mm 
 * 4x M2 Heated Inserts OD 3.2mm Length 3mm
-* 2x M3 screw 40 mm
-* 2x rubber O-ring 10x5.2x2.4
+* 2x M3 Heated Inserts OD 4.5mm Length 3mm
+* 4x DIN 7046 M2 Machine Screw screw 5 ~ 10 mm 
+* 2x DIN 912 M3 screw 40 mm
+* [Rubber O-ring OD 10 ID 5.2 CS 2.4](https://ko.aliexpress.com/item/1005002753756030.html)
 
 Assembly is straightforward and intended to be approachable, even if this is your first small DIY project. No soldering required.
 
